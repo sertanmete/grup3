@@ -7,6 +7,7 @@ public class class1 {
         System.out.println("ben sezer");
         System.out.println("Hazrettin");
         System.out.println("yine ben");
-        System.out.println("sertan")
+        System.out.println("sertan");
+        System.out.println("master");
     }
 }

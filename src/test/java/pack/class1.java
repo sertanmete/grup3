@@ -5,6 +5,6 @@ public class class1 {
         System.out.println("merhaba");
         System.out.println("goruyormusunuz");
         System.out.println("ben sezer");
-
+        System.out.println("Hazrettin");
     }
 }

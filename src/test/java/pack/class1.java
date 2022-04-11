@@ -6,5 +6,6 @@ public class class1 {
         System.out.println("goruyormusunuz");
         System.out.println("ben sezer");
         System.out.println("Hazrettin");
+
     }
 }

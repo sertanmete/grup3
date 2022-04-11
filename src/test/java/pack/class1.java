@@ -9,5 +9,6 @@ public class class1 {
         System.out.println("yine ben");
         System.out.println("sertan");
         System.out.println("master");
+        System.out.println("sezer");
     }
 }
